@@ -1,6 +1,33 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Julian Friedman dot Org
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+taxonomies:
+  category: categories
+  tag: tags
+params:
+  ShowPostNavLinks: true
+  homeInfoParams:
+    Title: "Julian Friedman's blog" # optional default will be site title
+    Content: "I write software and parent small humans"
+  socialIcons:
+  - name: "Github"
+    url: "http://github.com/julz"
+  - name: "Threads"
+    url: "http://github.com/julz"
+    #imageUrl: "<image link>" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    #imageWidth: 120 # custom size
+    #imageHeight: 120 # custom size

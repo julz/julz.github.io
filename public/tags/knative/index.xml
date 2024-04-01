@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Julian Friedman dot Org</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Julian Friedman dot Org</description>
+    <title>Knative on Julian Friedman dot Org</title>
+    <link>http://localhost:1313/tags/knative/</link>
+    <description>Recent content in Knative on Julian Friedman dot Org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/knative/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The weirdness (and wonderfulness) of the success of big open source, from an agile fan&#39;s perspective</title>
       <link>http://localhost:1313/posts/not-how-id-build-software/</link>
